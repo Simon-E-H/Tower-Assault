@@ -2,51 +2,58 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
+    public float speed = 20f;
+    public float damage = 20f;
+
+    [Header("AoE Settings")]
+    public float splashRadius = 0f;
+    public float splashDamage = 0f;
+
     private Transform target;
 
-    public float speed = 20f;
-
-    public GameObject impactEffect;
     public void Seek(Transform _target)
     {
         target = _target;
-    } 
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (target == null)
         {
-            Destroy(gameObject);
+            Destroy(gameObject, 2f);
             return;
         }
 
         Vector3 direction = target.position - transform.position;
-        float distanceToMove = speed * Time.deltaTime;
+        float distanceThisFrame = speed * Time.deltaTime;
 
-        if (direction.magnitude <=  distanceToMove)
+        transform.Translate(direction.normalized * distanceThisFrame, Space.World);
+
+        if (direction.magnitude <= distanceThisFrame + 0.2f)
         {
             HitTarget();
-            return;
         }
-
-        transform.Translate(direction.normalized * distanceToMove, Space.World);
-
-
     }
 
-    void HitTarget ()
+    void HitTarget()
     {
-        GameObject effect = (GameObject)Instantiate(impactEffect, transform.position, transform.rotation);
-        Destroy(effect, 2f);
-        
-        Destroy(gameObject);
+        Enemy enemy = target.GetComponent<Enemy>();
+        if (enemy != null)
+            enemy.TakeDamage(damage);
 
+        if (splashRadius > 0)
+        {
+            Collider[] hitColliders = Physics.OverlapSphere(transform.position, splashRadius);
+            foreach (Collider col in hitColliders)
+            {
+                Enemy e = col.GetComponent<Enemy>();
+                if (e != null && e != enemy)
+                {
+                    e.TakeDamage(splashDamage);
+                }
+            }
+        }
+
+        Destroy(gameObject);
     }
 }

@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class Waypoints : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     public static Transform[] waypoints;
 
     void Awake()

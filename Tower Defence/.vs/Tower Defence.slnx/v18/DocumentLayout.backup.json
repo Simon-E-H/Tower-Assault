@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Simon\\Documents\\Game Development Module\\Coursework Tower Defence Game\\Tower Defence\\",
+  "WorkspaceRootPath": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Simon\\Documents\\Game Development Module\\Coursework Tower Defence Game\\Tower Defence\\Assets\\Turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\simon\\documents\\game development\\tower assault\\tower defence\\assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\simon\\documents\\game development module\\coursework tower defence game\\tower defence\\assets\\scripts\\waypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\simon\\documents\\game development\\tower assault\\tower defence\\assets\\scripts\\buildmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\simon\\documents\\game development module\\coursework tower defence game\\tower defence\\assets\\scripts\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\EnemySpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemySpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\simon\\documents\\game development\\tower assault\\tower defence\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\simon\\documents\\game development\\tower assault\\tower defence\\assets\\scripts\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\simon\\documents\\game development module\\coursework tower defence game\\tower defence\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\simon\\documents\\game development\\tower assault\\tower defence\\assets\\scripts\\waypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\simon\\documents\\game development\\tower assault\\tower defence\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,58 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Waypoints.cs",
-              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Game Development Module\\Coursework Tower Defence Game\\Tower Defence\\Assets\\Scripts\\Waypoints.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Waypoints.cs",
-              "ToolTip": "C:\\Users\\Simon\\Documents\\Game Development Module\\Coursework Tower Defence Game\\Tower Defence\\Assets\\Scripts\\Waypoints.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Waypoints.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BuildMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\BuildMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildMenu.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\BuildMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T22:43:25.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Turret.cs",
-              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Game Development Module\\Coursework Tower Defence Game\\Tower Defence\\Assets\\Scripts\\Turret.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Turret.cs",
-              "ToolTip": "C:\\Users\\Simon\\Documents\\Game Development Module\\Coursework Tower Defence Game\\Tower Defence\\Assets\\Scripts\\Turret.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Turret.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T22:43:25.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Game Development Module\\Coursework Tower Defence Game\\Tower Defence\\Assets\\Scripts\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
-              "ToolTip": "C:\\Users\\Simon\\Documents\\Game Development Module\\Coursework Tower Defence Game\\Tower Defence\\Assets\\Scripts\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T22:43:08.138Z",
+              "WhenOpened": "2026-03-02T14:56:08.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Turret.cs",
-              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Game Development Module\\Coursework Tower Defence Game\\Tower Defence\\Assets\\Turret.cs",
-              "RelativeDocumentMoniker": "Assets\\Turret.cs",
-              "ToolTip": "C:\\Users\\Simon\\Documents\\Game Development Module\\Coursework Tower Defence Game\\Tower Defence\\Assets\\Turret.cs*",
-              "RelativeToolTip": "Assets\\Turret.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\Node.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Node.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\Node.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T21:53:44.647Z",
+              "WhenOpened": "2026-03-02T14:22:28.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T22:52:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Turret.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\Turret.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Turret.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\Turret.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Turret.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T22:47:26.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Waypoints.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\Waypoints.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Waypoints.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\Waypoints.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Waypoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T22:43:25.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T22:43:08.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\Simon\\Documents\\Game Development\\Tower Assault\\Tower Defence\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:20:26.291Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d34e4d45d1be33429c4e9b08e9db0d0, type: 3}
+  m_Name: Tricky
+  m_EditorClassIdentifier: Assembly-CSharp::WaveData
+  waveName: TrickyWave
+  enemies:
+  - enemyPrefab: {fileID: 3834007276039675358, guid: ef7ad1f93a5662c4a943cf493c1b2863, type: 3}
+    count: 2
+  - enemyPrefab: {fileID: 3834007276039675358, guid: 2c5be0aac0979f14fb2efc94c2608c09, type: 3}
+    count: 1
+  - enemyPrefab: {fileID: 3834007276039675358, guid: ef7ad1f93a5662c4a943cf493c1b2863, type: 3}
+    count: 3
+  - enemyPrefab: {fileID: 3834007276039675358, guid: ed8767a506292944889ff318b1861412, type: 3}
+    count: 1
+  - enemyPrefab: {fileID: 3834007276039675358, guid: 454de80621ad84c4584db0cb93e5934c, type: 3}
+    count: 2
+  timeBetweenEnemies: 1
+  timeBeforeNextWave: 8

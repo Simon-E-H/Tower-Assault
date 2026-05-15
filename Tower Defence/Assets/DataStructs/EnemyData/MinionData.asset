@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b0b99130f33a49419d4cf0291fd1244, type: 3}
+  m_Name: MinionData
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Minion
+  health: 60
+  speed: 6
+  reward: 15
+  attackDamage: 8
+  attackRange: 10
+  attackRate: 1.2
+  projectilePrefab: {fileID: 139959768819629354, guid: e9205b42c2d96dd48841f516b9dfb868, type: 3}
+  hasTaunt: 0
+  shockwaveDamage: 0
+  shockwaveRange: 0

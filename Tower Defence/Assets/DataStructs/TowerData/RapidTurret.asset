@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1da61011af485ed478a9a2598ba74765, type: 3}
+  m_Name: RapidTurret
+  m_EditorClassIdentifier: Assembly-CSharp::TowerData
+  towerName: Rapid Turret
+  towerPrefab: {fileID: 8157276850559839622, guid: 60be12e19ce7f44469c5283e633b02f8, type: 3}
+  bulletPrefab: {fileID: 139959768819629354, guid: 01a60c3443cceaa4ba5be3cab2e09dfa, type: 3}
+  pathA: {fileID: 11400000, guid: 5fa43c9d9e5653f4899ef60664d24fea, type: 2}
+  pathB: {fileID: 11400000, guid: 38ec62e7931a8e344b0ffc4dfe3d55b8, type: 2}
+  maxUpgrades: 3
+  cost: 75
+  range: 15
+  damage: 10
+  fireRate: 8
+  maxHealth: 125
+  splashRadius: 0
+  splashDamageMultiplier: 0.6
+  icon: {fileID: 0}
